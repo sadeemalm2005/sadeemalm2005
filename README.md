@@ -4,7 +4,6 @@
 # Hi, I'm Sadeem 👋
 
 ### Computer Science Student • Software Engineer in Progress
-
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=6A5ACD&center=true&vCenter=true&width=700&lines=Turning+ideas+into+code.;Learning+something+new+every+day.;Building+the+future,+one+project+at+a+time." />
 </p>
