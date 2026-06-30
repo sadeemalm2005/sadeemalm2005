@@ -1,11 +1,12 @@
+```markdown
 <div align="center">
 
 # Hi, I'm Sadeem 👋
 
-### Computer Science Student • Aspiring Software Engineer
+### Computer Science Student • Software Engineer in Progress
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=6A5ACD&center=true&vCenter=true&width=700&lines=Building+software+with+purpose.;Passionate+about+AI+and+iOS+Development.;Always+learning.+Always+growing." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=6A5ACD&center=true&vCenter=true&width=700&lines=Turning+ideas+into+code.;Learning+something+new+every+day.;Building+the+future,+one+project+at+a+time." />
 </p>
 
 <p>
@@ -26,52 +27,31 @@
 
 I'm **Sadeem**, a Computer Science student at **Princess Nourah bint Abdulrahman University**.
 
-I enjoy building software that solves real-world problems and continuously improving my technical skills through projects, certifications, and hands-on learning.
+I enjoy building software that solves real-world problems and continuously improving my technical skills through projects and hands-on learning.
 
 My current interests include:
 
-* 🤖 Artificial Intelligence
-* 📱 iOS Development (Swift)
-* 💻 Software Engineering
-* 🧠 Problem Solving
+- 🤖 Artificial Intelligence
+- 📱 iOS Development (Swift)
+- 💻 Software Engineering
+- 🧠 Problem Solving
 
 ---
 
 ## 🚀 Tech Stack
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=java,python,cpp,swift,git,github,vscode"/>
-
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 💡 What I'm Working On
 
-* Swift & iOS Development
-* Artificial Intelligence
-* Data Structures & Algorithms
-* Clean Code
-* Git & GitHub
-
----
-
-## 📚 Certifications
-
-* AI Fluency
-* UX/UI Design
-* Swift Development
-* Additional technical certifications through continuous learning
-
----
-
-## 🎯 Goals
-
-* Build impactful software projects
-* Strengthen problem-solving skills
-* Contribute to Open Source
-* Secure an internship at a leading global tech company
+- 📱 Learning iOS Development with Swift
+- 🤖 Exploring Artificial Intelligence
+- 💻 Building software projects
+- 🌱 Continuously improving my programming skills
 
 ---
 
@@ -111,12 +91,13 @@ My current interests include:
 
 📧 **Email:** [sadeemalm2005@gmail.com](mailto:sadeemalm2005@gmail.com)
 
-💼 **LinkedIn:** [www.linkedin.com/in/sadeem-3389893a3](http://www.linkedin.com/in/sadeem-3389893a3)
+💼 **LinkedIn:** [www.linkedin.com/in/sadeem-3389893a3](https://www.linkedin.com/in/sadeem-3389893a3)
 
 ---
 
 <div align="center">
 
-### ⭐ "Learning today. Building for tomorrow."
+### ⭐ Learning today. Building for tomorrow.
 
 </div>
+```
