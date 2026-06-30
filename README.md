@@ -2,7 +2,7 @@
 
 # Hi, I'm Sadeem 👋
 
-### Computer Science Student • Software Engineer in Progress
+### Computer Science Student | Software Engineer in Progress
 
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=6A5ACD&center=true&vCenter=true&width=700&lines=Turning+ideas+into+code.;Learning+something+new+every+day.;Building+the+future,+one+project+at+a+time." />
@@ -32,6 +32,7 @@ My interests include:
 
 - 🤖 Artificial Intelligence
 - 📱 iOS Development (Swift)
+- 🎨 UI/UX Design (Figma)
 - 💻 Software Engineering
 - 🧠 Problem Solving
 
@@ -40,7 +41,7 @@ My interests include:
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,swift,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,swift,figma,git,github,vscode" />
 </p>
 
 ---
