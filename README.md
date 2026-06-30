@@ -1,9 +1,9 @@
-```markdown
 <div align="center">
 
 # Hi, I'm Sadeem 👋
 
 ### Computer Science Student • Software Engineer in Progress
+
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=6A5ACD&center=true&vCenter=true&width=700&lines=Turning+ideas+into+code.;Learning+something+new+every+day.;Building+the+future,+one+project+at+a+time." />
 </p>
@@ -28,7 +28,7 @@ I'm **Sadeem**, a Computer Science student at **Princess Nourah bint Abdulrahman
 
 I enjoy building software that solves real-world problems and continuously improving my technical skills through projects and hands-on learning.
 
-My current interests include:
+My interests include:
 
 - 🤖 Artificial Intelligence
 - 📱 iOS Development (Swift)
@@ -39,8 +39,8 @@ My current interests include:
 
 ## 🚀 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,swift,git,github,vscode"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,swift,git,github,vscode" />
 </p>
 
 ---
@@ -57,11 +57,9 @@ My current interests include:
 ## 📊 GitHub Stats
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sadeemalm2005&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sadeemalm2005&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeemalm2005&layout=compact&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeemalm2005&layout=compact&hide_border=true&theme=transparent"/>
 </p>
 
 ---
@@ -69,9 +67,7 @@ My current interests include:
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sadeemalm2005&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=sadeemalm2005&hide_border=true&theme=transparent"/>
 </p>
 
 ---
@@ -79,18 +75,22 @@ My current interests include:
 ## 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sadeemalm2005&theme=flat&margin-w=15&margin-h=15&no-frame=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=sadeemalm2005&theme=flat&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-📧 **Email:** [sadeemalm2005@gmail.com](mailto:sadeemalm2005@gmail.com)
-
-💼 **LinkedIn:** [www.linkedin.com/in/sadeem-3389893a3](https://www.linkedin.com/in/sadeem-3389893a3)
+<p align="center">
+<a href="mailto:sadeemalm2005@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sadeem-3389893a3">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
 
 ---
 
@@ -99,4 +99,3 @@ My current interests include:
 ### ⭐ Learning today. Building for tomorrow.
 
 </div>
-```
